@@ -6,10 +6,8 @@ My git Note
 
 ## 1.1 设置
 ### 1.1.1 设置姓名、邮箱
-```git
       $ git config --global user.name "pooking"
       $ git config --global user.email "pookingcn@gmail.com"
-```
 
 ### 1.1.2 设置行尾
 #### unix/mac:
